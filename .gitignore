@@ -1,0 +1,7 @@
+# Dataset (se descarga aparte)
+FER2013/
+
+# Zips y archivos temporales
+*.zip
+__pycache__/
+.ipynb_checkpoints/
