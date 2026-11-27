@@ -1,7 +1,7 @@
-# Práctica 5. Biometría: detección y caracterización de caras
+# Práctica 5.
 
-**Autores:** [COMPLETAR: nombres]
-**Vídeo/GIF de demostración (máx. 30 s):** [COMPLETAR: enlace o `demo.gif`]
+**Autores:** Alejandro Alejo Santana
+**Vídeo/GIF de demostración**
 
 <!-- ![Demo](demo.gif) -->
 
